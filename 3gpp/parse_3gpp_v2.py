@@ -163,8 +163,8 @@ print(d.shape)
 
 # wd = 'C:\\Users\\Farid Khafizov\\Downloads\\'
 # file_name = '36523-1-f00_s07_01.txt'
-out_file_csv = wd+file_name.split('.')[0]+'.csv'
-d.to_csv(out_file_csv)
+out_file_csv = wd+file_name.split('.')[0]+'.tsv'
+d.to_csv(out_file_csv, sep='\t')
 #%% SPLIT DATA FRAME INTO TRAIN AND TEST
 np.random.seed(seed=10)
 idx = np.random.permutation(d.shape[0])
