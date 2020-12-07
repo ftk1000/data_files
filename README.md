@@ -1,6 +1,10 @@
 # data_files
 2020.09.01
 
+
+[How to download Kaggle Data](https://github.com/ftk1000/KGL/blob/master/howto_download_kaggle_data.txt)<br>
+[How to download Kaggle Data EXAMPLE](https://github.com/ftk1000/data_files/blob/master/fetch_kaggle_data.ipynb)<br>
+
 textclassificationdb.zip    - from !kaggle datasets download -d luishpinto/textclassificationdb
 
 
