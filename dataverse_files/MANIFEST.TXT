@@ -1,0 +1,19 @@
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AMKZXM
+
+line.csv (text/plain; charset=US-ASCII) 48406 bytes.
+SET-dec-2013.csv (text/plain; charset=US-ASCII) 29471333 bytes.
+SET-nov-2013.csv (text/plain; charset=US-ASCII) 28451759 bytes.
+
+Dataset Persistent ID 	doi:10.7910/DVN/AMKZXM
+Publication Date 	2015-05-14
+Title 	SET, Electricity
+Author 	SET
+Telecom Italia
+Contact 	
+Use email button above to contact.
+
+Lepri, Bruno (FBK - Fondazione Bruno Kessler)
+Description 	This dataset provides information about the current flowing through the electrical grid of the Trentino province.
+Subject 	Computer and Information Science; Social Sciences
+Depositor 	De Nadai, Marco
+Deposit Date 	2015-05-08
